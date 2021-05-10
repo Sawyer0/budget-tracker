@@ -20,7 +20,8 @@
 - Service workers
 
 # Demo
-![App Gif](public\images\budgetgif.gif)
+
+![](budgetgif.gif)
 # Usage
 
 - Both back and front end databases with IndexedDB and MongoDB
